@@ -1,0 +1,7 @@
+story-1
+
+
+class student(models,Model):
+	sid=models.integerfeild()
+	sname=models.charfeild()
+	smarks=models.integerfeild()
