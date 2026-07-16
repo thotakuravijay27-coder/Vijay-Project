@@ -1,4 +1,8 @@
 Story-1
+<<<<<<< Updated upstream
 class Student(forms)
 
 story-2
+=======
+class Student(forms.ModelFt5h5h7h7)
+>>>>>>> Stashed changes
