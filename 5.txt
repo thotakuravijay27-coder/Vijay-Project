@@ -6,4 +6,9 @@ class student(models,Model):
 	sname=models.charfeild()
 	smarks=models.integerfeild()
 
+<<<<<<< Updated upstream
 pavan
+=======
+
+vijay
+>>>>>>> Stashed changes
